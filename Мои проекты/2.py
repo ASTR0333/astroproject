@@ -11,7 +11,6 @@ def h_shape(t):
 tr = Turtle()
 tr.hideturtle()
 tr.penup()
-tracer(0)
 
 tr.lt(90)
 tr.goto(scale * h_shape(0)[0], scale * h_shape(0)[1])
